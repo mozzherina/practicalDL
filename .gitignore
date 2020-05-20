@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 datasets/
 models/
+tf_logs/
 *.jpg
